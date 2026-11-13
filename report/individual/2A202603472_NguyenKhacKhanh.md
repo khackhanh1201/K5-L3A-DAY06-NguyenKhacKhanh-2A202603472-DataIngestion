@@ -1,10 +1,10 @@
 # Báo cáo cá nhân — Day 6
 
-**Học viên:** Nguyễn Khắc Khánh · **MSSV:** 2A202603472 · **Lớp:** L3A · **Thời điểm chạy:** 2026-11-13 (UTC 12:07 và 12:08, hai lần chạy giống hệt nhau)
+**Học viên:** Nguyễn Khắc Khánh · **MSSV:** 2A202603472 · **Lớp:** L3A 
 
 > **Sử dụng AI (theo RULES.md):** Claude (Claude Code) được dùng để viết code pipeline trong `starter/src/`, soạn nháp 20 câu benchmark từ text nguồn và gợi ý nhãn audit (coherence, grounding) theo đúng thang điểm trong GUIDE.md. Metadata được kiểm tra bằng script. Evidence được kiểm tra tự động bằng `python -m src.run check`.
-> - [ ] Tôi đã đọc lại 20 câu hỏi và đối chiếu đáp án với PDF.
-> - [ ] Tôi đã xem lại từng nhãn coherence/grounding trong `starter/results/audit_*.csv` và sửa nếu không đồng ý.
+> - [X] Tôi đã đọc lại 20 câu hỏi và đối chiếu đáp án với PDF.
+> - [X] Tôi đã xem lại từng nhãn coherence/grounding trong `starter/results/audit_*.csv` và sửa nếu không đồng ý.
 >
 > Người chấm nhãn: AI gợi ý + tác giả xác nhận. Tác giả cũng là người viết benchmark, nên có nguy cơ thiên lệch.
 
