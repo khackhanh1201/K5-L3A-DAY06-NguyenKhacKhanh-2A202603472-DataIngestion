@@ -1,0 +1,128 @@
+﻿position,strategy,document_id,page,anchor_text,chunk_id,chunk_text,coherence_0_1_2,reason
+1,A,astronomy2e-ch03,85,(credit: modification of work by NASA) Chapter Outline 3.1 T,astronomy2e-ch03:p85:fix500-50:0,"Figure 3.1 International Space Station. This space habitat and laboratory orbits Earth once every 90 minutes. (credit: modification
+of work by NASA)
+Chapter Outline
+3.1 The Laws of Planetary Motion
+3.2 Newton’s Great Synthesis
+3.3 Newton’s Universal Law of Gravitation
+3.4 Orbits in the Solar System
+3.5 Motions of Satellites and Spacecraft
+3.6 Gravity with More Than Two Bodies
+Thinking Ahead
+How would you find a new planet at the outskirts of our solar system that is too dim to be seen with the
+u",1,"Starts at page start but ends mid-word ('...with the u'); outline + caption readable, Thinking Ahead question cut."
+1,B,astronomy2e-ch03,85,(credit: modification of work by NASA) Chapter Outline 3.1 T,astronomy2e-ch03:p85:par800:0,Figure 3.1 International Space Station. This space habitat and laboratory orbits Earth once every 90 minutes. (credit: modification of work by NASA) Chapter Outline 3.1 The Laws of Planetary Motion 3.2 Newton’s Great Synthesis 3.3 Newton’s Universal Law of Gravitation 3.4 Orbits in the Solar System 3.5 Motions of Satellites and Spacecraft 3.6 Gravity with More Than Two Bodies Thinking Ahead How would you find a new planet at the outskirts of our solar system that is too dim to be seen with the unaided eye and is so far away that it moves very slowly among the stars? This was the problem confronting astronomers during the nineteenth century as they tried to pin down a full inventory of our solar system.,2,"Complete sentences: caption, outline and full Thinking Ahead question; mixed structural content but understandable."
+1,C,astronomy2e-ch03,85,(credit: modification of work by NASA) Chapter Outline 3.1 T,astronomy2e-ch03:p85:par800:0,Figure 3.1 International Space Station. This space habitat and laboratory orbits Earth once every 90 minutes. (credit: modification of work by NASA) Chapter Outline 3.1 The Laws of Planetary Motion 3.2 Newton’s Great Synthesis 3.3 Newton’s Universal Law of Gravitation 3.4 Orbits in the Solar System 3.5 Motions of Satellites and Spacecraft 3.6 Gravity with More Than Two Bodies Thinking Ahead How would you find a new planet at the outskirts of our solar system that is too dim to be seen with the unaided eye and is so far away that it moves very slowly among the stars? This was the problem confronting astronomers during the nineteenth century as they tried to pin down a full inventory of our solar system.,2,"Complete sentences: caption, outline and full Thinking Ahead question; mixed structural content but understandable. (C reuses index B: same chunk and label as B.)"
+2,A,astronomy2e-ch03,86,His growing reputation gained him the patronage of the Danis,astronomy2e-ch03:p86:fix500-50:2,"the night sky. His growing reputation gained him the patronage of the Danish King Frederick
+II, and at the age of 30, Brahe was able to establish a fine astronomical observatory on the North Sea island of
+Hven (Figure 3.2). Brahe was the last and greatest of the pre-telescopic observers in Europe.
+Figure 3.2 Tycho Brahe (1546–1601) and Johannes Kepler (1571–1630). (a) A stylized engraving shows Tycho Brahe using his
+instruments to measure the altitude of celestial objects above the horizon. The",1,Starts mid-sentence ('the night sky.') and ends mid-sentence ('The'); anchor sentence intact but paragraph context missing.
+2,B,astronomy2e-ch03,86,His growing reputation gained him the patronage of the Danis,astronomy2e-ch03:p86:par800:1,"Tycho Brahe’s Observatory Three years after the publication of Copernicus’ De Revolutionibus, Tycho Brahe was born to a family of Danish nobility. He developed an early interest in astronomy and, as a young man, made significant astronomical observations. Among these was a careful study of what we now know was an exploding star that flared up to great brilliance in the night sky. His growing reputation gained him the patronage of the Danish King Frederick II, and at the age of 30, Brahe was able to establish a fine astronomical observatory on the North Sea island of Hven (Figure 3.2). Brahe was the last and greatest of the pre-telescopic observers in Europe.",2,"Whole paragraph about Tycho Brahe's observatory, starts at the heading; self-contained."
+2,C,astronomy2e-ch03,86,His growing reputation gained him the patronage of the Danis,astronomy2e-ch03:p86:par800:1,"Tycho Brahe’s Observatory Three years after the publication of Copernicus’ De Revolutionibus, Tycho Brahe was born to a family of Danish nobility. He developed an early interest in astronomy and, as a young man, made significant astronomical observations. Among these was a careful study of what we now know was an exploding star that flared up to great brilliance in the night sky. His growing reputation gained him the patronage of the Danish King Frederick II, and at the age of 30, Brahe was able to establish a fine astronomical observatory on the North Sea island of Hven (Figure 3.2). Brahe was the last and greatest of the pre-telescopic observers in Europe.",2,"Whole paragraph about Tycho Brahe's observatory, starts at the heading; self-contained. (C reuses index B: same chunk and label as B.)"
+3,A,astronomy2e-ch03,87,Their study occupied most of Kepler’s time for more than 20 ,astronomy2e-ch03:p87:fix500-50:3,"l at any one time for fear
+that Kepler would discover the secrets of the universal motion by himself, thereby robbing Brahe of some of
+the glory. Only after Brahe’s death in 1601 did Kepler get full possession of the priceless records. Their study
+occupied most of Kepler’s time for more than 20 years.
+Through his analysis of the motions of the planets, Kepler developed a series of principles, now known as
+Kepler’s three laws, which described the behavior of planets based on their paths through s",1,"Starts mid-word ('l at any one time') and ends mid-word ('through s'); anchor sentence intact, surrounding ideas cut."
+3,B,astronomy2e-ch03,87,Their study occupied most of Kepler’s time for more than 20 ,astronomy2e-ch03:p87:par800:2,"Only after Brahe’s death in 1601 did Kepler get full possession of the priceless records. Their study occupied most of Kepler’s time for more than 20 years.
+
+Through his analysis of the motions of the planets, Kepler developed a series of principles, now known as Kepler’s three laws, which described the behavior of planets based on their paths through space. The first two laws of planetary motion were published in 1609 in The New Astronomy. Their discovery was a profound step in the development of modern science.",2,Two complete paragraphs on Kepler's analysis and the first two laws; self-contained.
+3,C,astronomy2e-ch03,87,Their study occupied most of Kepler’s time for more than 20 ,astronomy2e-ch03:p87:par800:2,"Only after Brahe’s death in 1601 did Kepler get full possession of the priceless records. Their study occupied most of Kepler’s time for more than 20 years.
+
+Through his analysis of the motions of the planets, Kepler developed a series of principles, now known as Kepler’s three laws, which described the behavior of planets based on their paths through space. The first two laws of planetary motion were published in 1609 in The New Astronomy. Their discovery was a profound step in the development of modern science.",2,Two complete paragraphs on Kepler's analysis and the first two laws; self-contained. (C reuses index B: same chunk and label as B.)
+4,A,astronomy2e-ch03,88,This means that the eccentricity is zero and the ellipse is ,astronomy2e-ch03:p88:fix500-50:3,"imajor axis is denoted by a. The distance 2a is called the major axis of the ellipse.
+The shape (roundness) of an ellipse depends on how close together the two foci are, compared with the major
+axis. The ratio of the distance between the foci to the length of the major axis is called the eccentricity of the
+ellipse.
+If the foci (or tacks) are moved to the same location, then the distance between the foci would be zero. This
+means that the eccentricity is zero and the ellipse is just a circle; th",1,"Starts mid-word ('imajor axis'); anchor sentence cut ('ellipse is just a circle; th'), conclusion about zero eccentricity lost."
+4,B,astronomy2e-ch03,88,This means that the eccentricity is zero and the ellipse is ,astronomy2e-ch03:p88:par800:2,"The shape (roundness) of an ellipse depends on how close together the two foci are, compared with the major axis. The ratio of the distance between the foci to the length of the major axis is called the eccentricity of the ellipse.
+
+If the foci (or tacks) are moved to the same location, then the distance between the foci would be zero. This means that the eccentricity is zero and the ellipse is just a circle; thus, a circle can be called an ellipse of zero eccentricity. In a circle, the semimajor axis would be the radius.",2,Full definition of eccentricity and the zero-eccentricity circle case; self-contained.
+4,C,astronomy2e-ch03,88,This means that the eccentricity is zero and the ellipse is ,astronomy2e-ch03:p88:par800:2,"The shape (roundness) of an ellipse depends on how close together the two foci are, compared with the major axis. The ratio of the distance between the foci to the length of the major axis is called the eccentricity of the ellipse.
+
+If the foci (or tacks) are moved to the same location, then the distance between the foci would be zero. This means that the eccentricity is zero and the ellipse is just a circle; thus, a circle can be called an ellipse of zero eccentricity. In a circle, the semimajor axis would be the radius.",2,Full definition of eccentricity and the zero-eccentricity circle case; self-contained. (C reuses index B: same chunk and label as B.)
+5,A,astronomy2e-ch03,89,Kepler’s Third Law Kepler’s first two laws of planetary moti,astronomy2e-ch03:p89:fix500-50:2,"e between the Sun and a planet sweeps out equal areas
+(A and B). Note that the eccentricities of the planets’ orbits in our solar system are substantially less than shown here.
+The Kepler's Second Law demonstrator (https://openstax.org/l/30kepsecond) from CCNY's ScienceSims
+project shows how an orbiting planet sweeps out the same area in the same time.
+Kepler’s Third Law
+Kepler’s first two laws of planetary motion describe the shape of a planet’s orbit and allow us to calculate the
+speed of its",1,Mostly the previous figure caption; anchor heading present but its first sentence is cut ('speed of its').
+5,B,astronomy2e-ch03,89,Kepler’s Third Law Kepler’s first two laws of planetary moti,astronomy2e-ch03:p89:par800:2,"Kepler’s Third Law Kepler’s first two laws of planetary motion describe the shape of a planet’s orbit and allow us to calculate the speed of its motion at any point in the orbit. Kepler was pleased to have discovered such fundamental rules, but they did not satisfy his quest to fully understand planetary motions. He wanted to know why the orbits of the planets were spaced as they are and to find a mathematical pattern in their movements—a “harmony of the spheres” as he called it. For many years he worked to discover mathematical relationships governing planetary spacing and the time each planet took to go around the Sun.",2,Full 'Kepler's Third Law' opening paragraph; self-contained.
+5,C,astronomy2e-ch03,89,Kepler’s Third Law Kepler’s first two laws of planetary moti,astronomy2e-ch03:p89:par800:2,"Kepler’s Third Law Kepler’s first two laws of planetary motion describe the shape of a planet’s orbit and allow us to calculate the speed of its motion at any point in the orbit. Kepler was pleased to have discovered such fundamental rules, but they did not satisfy his quest to fully understand planetary motions. He wanted to know why the orbits of the planets were spaced as they are and to find a mathematical pattern in their movements—a “harmony of the spheres” as he called it. For many years he worked to discover mathematical relationships governing planetary spacing and the time each planet took to go around the Sun.",2,Full 'Kepler's Third Law' opening paragraph; self-contained. (C reuses index B: same chunk and label as B.)
+6,A,astronomy2e-ch03,90,What would be the orbital period of the object if its orbit ,astronomy2e-ch03:p90:fix500-50:2,"s
+Imagine an object is traveling around the Sun. What would be the orbital period of the object if its orbit has
+a semimajor axis of 50 AU?
+Solution
+From Kepler’s third law, we know that (when we use units of years and AU)
+If the object’s orbit has a semimajor axis of 50 AU (a = 50), we can cube 50 and then take the square root of
+the result to get P:
+Therefore, the orbital period of the object is about 350 years. This would place our hypothetical object
+beyond the orbit of Pluto.
+Check Your Lea",1,"Example question and solution present, but chunk starts with fragment 's' and the formulas are missing (PDF extraction)."
+6,B,astronomy2e-ch03,90,What would be the orbital period of the object if its orbit ,astronomy2e-ch03:p90:par800:1,"For instance, suppose you time how long Mars takes to go around the Sun (in Earth years). Kepler’s third law can then be used to calculate Mars’ average distance from the Sun. Mars’ orbital period (1.88 Earth years) squared, or , is , and according to the equation for Kepler’s third law, this equals the cube of its semimajor axis, or . So what number must be cubed to give 3.53? The answer is . Thus, Mars’ semimajor axis in astronomical units must be 1.52 AU. In other words, to go around the Sun in a little less than two years, Mars must be about 50% (half again) as far from the Sun as Earth is.
+
+EXAMPLE 3. 1 Calculating Periods Imagine an object is traveling around the Sun. What would be the orbital period of the object if its orbit has a semimajor axis of 50 AU?",1,Mars example is complete in words but formulas are missing; Example 3.1 question is separated from its solution (next chunk).
+6,C,astronomy2e-ch03,90,What would be the orbital period of the object if its orbit ,astronomy2e-ch03:p90:par800:1,"For instance, suppose you time how long Mars takes to go around the Sun (in Earth years). Kepler’s third law can then be used to calculate Mars’ average distance from the Sun. Mars’ orbital period (1.88 Earth years) squared, or , is , and according to the equation for Kepler’s third law, this equals the cube of its semimajor axis, or . So what number must be cubed to give 3.53? The answer is . Thus, Mars’ semimajor axis in astronomical units must be 1.52 AU. In other words, to go around the Sun in a little less than two years, Mars must be about 50% (half again) as far from the Sun as Earth is.
+
+EXAMPLE 3. 1 Calculating Periods Imagine an object is traveling around the Sun. What would be the orbital period of the object if its orbit has a semimajor axis of 50 AU?",1,Mars example is complete in words but formulas are missing; Example 3.1 question is separated from its solution (next chunk). (C reuses index B: same chunk and label as B.)
+7,A,astronomy2e-ch03,91,Check Your Learning Using the orbital periods and semimajor ,astronomy2e-ch03:p91:fix500-50:2,"is case, equals) the cube of the semimajor axis (1.00).
+Therefore, Earth obeys Kepler’s third law.
+Check Your Learning
+Using the orbital periods and semimajor axes for Saturn and Jupiter that are provided here, calculate P2 and
+a3, and verify that they obey Kepler’s third law. Saturn’s orbital period is 29.46 years, and its semimajor axis
+is 9.54 AU. Jupiter’s orbital period is 11.86 years, and its semimajor axis is 5.20 AU.
+Answer:
+For Saturn, and . The square of the orbital
+period (867.9) appr",1,"Starts mid-sentence ('is case, equals)') and the Check Your Learning answer is cut ('appr')."
+7,B,astronomy2e-ch03,91,Check Your Learning Using the orbital periods and semimajor ,astronomy2e-ch03:p91:par800:1,"Solution We can use the equation for Kepler’s third law, P2 ∝ a3. For Venus, and (rounding numbers sometimes causes minor discrepancies like this). The square of the orbital period (0.38) approximates the cube of the semimajor axis (0.37). Therefore, Venus obeys Kepler’s third law. For Earth, and . The square of the orbital period (1.00) approximates (in this case, equals) the cube of the semimajor axis (1.00).
+
+Therefore, Earth obeys Kepler’s third law.
+
+Check Your Learning Using the orbital periods and semimajor axes for Saturn and Jupiter that are provided here, calculate P2 and a3, and verify that they obey Kepler’s third law. Saturn’s orbital period is 29.46 years, and its semimajor axis is 9.54 AU. Jupiter’s orbital period is 11.86 years, and its semimajor axis is 5.20 AU.
+
+Answer:",1,Venus/Earth solution with missing formulas; Check Your Learning question kept but its answer is in the next chunk.
+7,C,astronomy2e-ch03,91,Check Your Learning Using the orbital periods and semimajor ,astronomy2e-ch03:p91:par800:1,"Solution We can use the equation for Kepler’s third law, P2 ∝ a3. For Venus, and (rounding numbers sometimes causes minor discrepancies like this). The square of the orbital period (0.38) approximates the cube of the semimajor axis (0.37). Therefore, Venus obeys Kepler’s third law. For Earth, and . The square of the orbital period (1.00) approximates (in this case, equals) the cube of the semimajor axis (1.00).
+
+Therefore, Earth obeys Kepler’s third law.
+
+Check Your Learning Using the orbital periods and semimajor axes for Saturn and Jupiter that are provided here, calculate P2 and a3, and verify that they obey Kepler’s third law. Saturn’s orbital period is 29.46 years, and its semimajor axis is 9.54 AU. Jupiter’s orbital period is 11.86 years, and its semimajor axis is 5.20 AU.
+
+Answer:",1,Venus/Earth solution with missing formulas; Check Your Learning question kept but its answer is in the next chunk. (C reuses index B: same chunk and label as B.)
+8,A,astronomy2e-ch03,92,"Eventually, his friend Edmund Halley (profiled in Comets and",astronomy2e-ch03:p92:fix500-50:2,"the plague years of 1665 and 1666, when
+students were sent home from college. Newton, a moody and often difficult man, continued to work on his
+ideas in private, even inventing new mathematical tools to help him deal with the complexities involved.
+Eventually, his friend Edmund Halley (profiled in Comets and Asteroids: Debris of the Solar System) prevailed
+on him to collect and publish the results of his remarkable investigations on motion and gravity. The result was
+a volume that set out the un",1,Starts mid-sentence ('the plague years') and ends mid-word ('the un'); anchor sentence intact but result of the sentence cut.
+8,B,astronomy2e-ch03,92,"Eventually, his friend Edmund Halley (profiled in Comets and",astronomy2e-ch03:p92:par800:2,"Eventually, his friend Edmund Halley (profiled in Comets and Asteroids: Debris of the Solar System) prevailed on him to collect and publish the results of his remarkable investigations on motion and gravity. The result was a volume that set out the underlying system of the physical world, Philosophiae Naturalis Principia Mathematica. The Principia, as the book is generally known, was published at Halley’s expense in 1687.
+
+At the very beginning of the Principia, Newton proposes three laws that would govern the motions of all objects:
+
+• Newton’s first law: Every object will continue to be in a state of rest or move at a constant speed in a straight line unless it is compelled to change by an outside force.",2,Complete Halley/Principia paragraph plus Newton's first law; self-contained.
+8,C,astronomy2e-ch03,92,"Eventually, his friend Edmund Halley (profiled in Comets and",astronomy2e-ch03:p92:par800:2,"Eventually, his friend Edmund Halley (profiled in Comets and Asteroids: Debris of the Solar System) prevailed on him to collect and publish the results of his remarkable investigations on motion and gravity. The result was a volume that set out the underlying system of the physical world, Philosophiae Naturalis Principia Mathematica. The Principia, as the book is generally known, was published at Halley’s expense in 1687.
+
+At the very beginning of the Principia, Newton proposes three laws that would govern the motions of all objects:
+
+• Newton’s first law: Every object will continue to be in a state of rest or move at a constant speed in a straight line unless it is compelled to change by an outside force.",2,Complete Halley/Principia paragraph plus Newton's first law; self-contained. (C reuses index B: same chunk and label as B.)
+9,A,astronomy2e-ch03,93,(We use a smooth table so we can ignore friction.) If you pu,astronomy2e-ch03:p93:fix500-50:4,"t is, to
+start it moving, to speed it up, to slow it down, to stop it, or to change its direction.
+As you learned in Observing the Sky: The Birth of Astronomy, the rate of change in an object’s velocity is called
+acceleration. Newton showed that the acceleration of a body was proportional to the force being applied to it.
+Suppose that after a long period of reading, you push an astronomy book away from you on a long, smooth
+table. (We use a smooth table so we can ignore friction.) If you push th",1,"Anchor sentence intact but the pushing-book example is cut ('If you push th'); starts mid-word ('t is, to')."
+9,B,astronomy2e-ch03,93,(We use a smooth table so we can ignore friction.) If you pu,astronomy2e-ch03:p93:par800:4,"Suppose that after a long period of reading, you push an astronomy book away from you on a long, smooth table. (We use a smooth table so we can ignore friction.) If you push the book steadily, it will continue to speed up as long as you are pushing it. The harder you push the book, the larger its acceleration will be. How much a force will accelerate an object is also determined by the object’s mass. If you kept pushing a pen with the same force with which you pushed the textbook, the pen—having less mass—would be accelerated to a greater speed.",2,Complete pushing-book example paragraph; self-contained.
+9,C,astronomy2e-ch03,93,(We use a smooth table so we can ignore friction.) If you pu,astronomy2e-ch03:p93:par800:4,"Suppose that after a long period of reading, you push an astronomy book away from you on a long, smooth table. (We use a smooth table so we can ignore friction.) If you push the book steadily, it will continue to speed up as long as you are pushing it. The harder you push the book, the larger its acceleration will be. How much a force will accelerate an object is also determined by the object’s mass. If you kept pushing a pen with the same force with which you pushed the textbook, the pen—having less mass—would be accelerated to a greater speed.",2,Complete pushing-book example paragraph; self-contained. (C reuses index B: same chunk and label as B.)
+10,A,astronomy2e-ch03,94,The volume of an object is the measure of the physical space,astronomy2e-ch03:p94:fix500-50:2,"ASA)
+For more about Isaac Newton’s life and work, check out this timeline page (https://openstax.org/l/
+30IsaacNewTime) with snapshots from his career, produced by the British Broadcasting Corporation (BBC).
+Mass, Volume, and Density
+Before we go on to discuss Newton’s other work, we want to take a brief look at some terms that will be
+important to sort out clearly. We begin with mass, which is a measure of the amount of material within an
+object.
+The volume of an object is the measure of the ph",0,Anchor definition itself is cut ('The volume of an object is the measure of the ph'); meaning of volume lost.
+10,B,astronomy2e-ch03,94,The volume of an object is the measure of the physical space,astronomy2e-ch03:p94:par800:2,"The volume of an object is the measure of the physical space it occupies. Volume is measured in cubic units, such as cubic centimeters or liters. The volume is the “size” of an object. A penny and an inflated balloon may both have the same mass, but they have very different volumes. The reason is that they also have very different densities, which is a measure of how much mass there is per unit volume. Specifically, density is the mass divided by the volume. Note that in everyday language we often use “heavy” and “light” as indications of density (rather than weight) as, for instance, when we say that iron is heavy or that whipped cream is light.",2,Complete paragraph defining volume and density; self-contained.
+10,C,astronomy2e-ch03,94,The volume of an object is the measure of the physical space,astronomy2e-ch03:p94:par800:2,"The volume of an object is the measure of the physical space it occupies. Volume is measured in cubic units, such as cubic centimeters or liters. The volume is the “size” of an object. A penny and an inflated balloon may both have the same mass, but they have very different volumes. The reason is that they also have very different densities, which is a measure of how much mass there is per unit volume. Specifically, density is the mass divided by the volume. Note that in everyday language we often use “heavy” and “light” as indications of density (rather than weight) as, for instance, when we say that iron is heavy or that whipped cream is light.",2,Complete paragraph defining volume and density; self-contained. (C reuses index B: same chunk and label as B.)

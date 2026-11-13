@@ -1,0 +1,28 @@
+{
+  "indexes": {
+    "A": {
+      "chunker": "fixed_size",
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "chunker": "by_paragraph",
+      "max_size": 800
+    }
+  },
+  "strategies": {
+    "A": {
+      "index": "A",
+      "use_filter": false
+    },
+    "B": {
+      "index": "B",
+      "use_filter": false
+    },
+    "C": {
+      "index": "B",
+      "use_filter": true
+    }
+  },
+  "top_k": 3
+}

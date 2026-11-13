@@ -1,5 +1,40 @@
 # Day 06 · Data Ingestion Engineering
 
+> ## Bài làm — Nguyễn Khắc Khánh (2A202603472)
+>
+> **Corpus:** OpenStax *Astronomy 2e* (CC BY 4.0), Ch.3 + Ch.4, 56 trang nội dung · **Embedding:** `intfloat/multilingual-e5-small` (local, 384d, chi phí 0) · **Vector store:** Chroma 1.5.9 persistent, cosine · **Báo cáo:** [report/individual/2A202603472_NguyenKhacKhanh.md](report/individual/2A202603472_NguyenKhacKhanh.md)
+>
+> Docker/pgvector không chạy được trên máy (Windows Home chưa có WSL2) nên dùng Chroma — lựa chọn được phép trong [docs/README.md](docs/README.md).
+>
+> ### Setup và chạy lại (Windows PowerShell, trong thư mục `starter/`)
+>
+> ```bash
+> python -m venv .venv
+> .venv\Scripts\Activate.ps1
+> python -m pip install -r requirements.txt
+> Copy-Item .env.example .env
+> ```
+>
+> Tải PDF (163 MB, không commit vì vượt giới hạn GitHub) từ https://openstax.org/details/books/astronomy-2e và lưu thành `starter/data/raw/astronomy-2e.pdf` (bản dùng: `astronomy-2e_-_WEB.pdf`, 1151 trang, PDF CreationDate 2026-04-20).
+>
+> ```bash
+> python -m src.run ingest   # đọc + chuẩn hoá -> results/pages.jsonl, kiểm tra >= 30 trang
+> python -m src.run check    # kiểm chứng evidence của benchmark/questions.json
+> python -m src.run all      # chunk, embed, lưu Chroma, chạy A/B/C, metric, file audit
+> ```
+>
+> | Thành phần | Đường dẫn |
+> |---|---|
+> | Code pipeline | [starter/src/](starter/src/) |
+> | Manifest dữ liệu | [starter/data/manifest.json](starter/data/manifest.json) |
+> | Benchmark + gold | [starter/benchmark/](starter/benchmark/) |
+> | Cấu hình A/B/C, giả thuyết | [artifacts/experiment_log.csv](artifacts/experiment_log.csv), [starter/results/config.json](starter/results/config.json) |
+> | Trace top-3, metric, thống kê | [starter/results/traces.jsonl](starter/results/traces.jsonl), [starter/results/summary.json](starter/results/summary.json) |
+> | Nhãn audit | [starter/results/audit_*.csv](starter/results/), [starter/results/audit_summary.json](starter/results/audit_summary.json) |
+> | Log lỗi ingest, nạp lại | [starter/results/ingest_errors.json](starter/results/ingest_errors.json), [starter/results/ingest_runs.jsonl](starter/results/ingest_runs.jsonl) |
+
+---
+
 **Lab cá nhân** · **4 giờ** · **Dữ liệu tự chọn**
 
 Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, rồi đo xem cách chuẩn bị dữ liệu nào hiệu quả nhất.

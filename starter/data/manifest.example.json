@@ -1,0 +1,29 @@
+[
+  {
+    "_comment": "Copy this file to manifest.json and replace every value with your real corpus. One entry per chapter/document.",
+    "source_id": "openstax-<book>-ch03",
+    "title": "<Book title> - Chapter 3: <Chapter title>",
+    "source_path_or_url": "data/raw/<book>.pdf",
+    "original_url": "https://openstax.org/details/books/<book>",
+    "license_or_permission": "CC BY 4.0 (OpenStax). Attribution: <authors>, OpenStax.",
+    "accessed_at": "2026-11-13",
+    "version_or_snapshot": "<edition / print date shown in the PDF, if any>",
+    "physical_pages_in_pdf": 0,
+    "page_range": [85, 102],
+    "exclude_pages": [],
+    "counting_rule": "Physical PDF page numbers; only content pages counted; excluded: chapter summary, review questions, blank pages.",
+    "metadata": {"chapter": "3"}
+  },
+  {
+    "source_id": "openstax-<book>-ch04",
+    "title": "<Book title> - Chapter 4: <Chapter title>",
+    "source_path_or_url": "data/raw/<book>.pdf",
+    "original_url": "https://openstax.org/details/books/<book>",
+    "license_or_permission": "CC BY 4.0 (OpenStax). Attribution: <authors>, OpenStax.",
+    "accessed_at": "2026-11-13",
+    "page_range": [109, 126],
+    "exclude_pages": [],
+    "counting_rule": "Same as above.",
+    "metadata": {"chapter": "4"}
+  }
+]

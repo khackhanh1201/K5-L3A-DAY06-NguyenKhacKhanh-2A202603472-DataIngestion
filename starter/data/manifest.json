@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "astronomy2e-ch03",
+    "title": "Astronomy 2e - Chapter 3: Orbits and Gravity",
+    "source_path_or_url": "data/raw/astronomy-2e.pdf",
+    "original_url": "https://openstax.org/details/books/astronomy-2e",
+    "license_or_permission": "CC BY 4.0. Attribution: Andrew Fraknoi, David Morrison, Sidney C. Wolff et al., Astronomy 2e, OpenStax (Rice University). Text used unmodified for retrieval experiments.",
+    "accessed_at": "2026-11-13",
+    "version_or_snapshot": "PDF 'astronomy-2e_-_WEB.pdf', PDF CreationDate 2026-04-20, 1151 physical pages",
+    "physical_pages_in_pdf": 1151,
+    "page_range": [85, 109],
+    "exclude_pages": [],
+    "counting_rule": "Physical PDF page numbers (not printed page labels). Chapter opener + sections 3.1-3.6 counted; Key Terms, Summary, For Further Exploration, Collaborative Group Activities and Exercises (p110-116) excluded. Pages with < 200 extracted chars are skipped and logged in results/ingest_errors.json.",
+    "metadata": {"chapter": "3"}
+  },
+  {
+    "source_id": "astronomy2e-ch04",
+    "title": "Astronomy 2e - Chapter 4: Earth, Moon, and Sky",
+    "source_path_or_url": "data/raw/astronomy-2e.pdf",
+    "original_url": "https://openstax.org/details/books/astronomy-2e",
+    "license_or_permission": "CC BY 4.0. Attribution: Andrew Fraknoi, David Morrison, Sidney C. Wolff et al., Astronomy 2e, OpenStax (Rice University). Text used unmodified for retrieval experiments.",
+    "accessed_at": "2026-11-13",
+    "version_or_snapshot": "PDF 'astronomy-2e_-_WEB.pdf', PDF CreationDate 2026-04-20, 1151 physical pages",
+    "physical_pages_in_pdf": 1151,
+    "page_range": [117, 147],
+    "exclude_pages": [],
+    "counting_rule": "Physical PDF page numbers. Chapter opener + sections 4.1-4.7 counted; Key Terms through Exercises (p148-156) excluded. Pages with < 200 extracted chars are skipped and logged.",
+    "metadata": {"chapter": "4"}
+  }
+]

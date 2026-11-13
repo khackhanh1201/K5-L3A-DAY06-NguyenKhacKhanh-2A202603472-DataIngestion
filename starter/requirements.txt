@@ -2,3 +2,6 @@
 psycopg[binary]==3.3.8
 pypdf>=5,<7
 python-dotenv>=1,<2
+# Vector store (replaces Docker/pgvector on this machine) and local embeddings
+chromadb==1.5.9
+sentence-transformers>=3,<6
